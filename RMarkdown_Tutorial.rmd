@@ -17,7 +17,7 @@ Good choice. RMarkdown allows for you to make really nice looking and interactiv
 
 ## What is RMarkdown?
 
-RMarkdown has two main parts: R and Markdown. An RMarkdown document can have any number of blocks of R or Markdown. 
+RMarkdown has two main parts: R and Markdown. An RMarkdown document can have any number of blocks of R or Markdown. A more full description of RMarkdown can be found [here](http://rmarkdown.rstudio.com).
 
 ### R
 
@@ -25,7 +25,15 @@ R is a coding language mainly used for statistical analysis. It can be used to m
 
 ### Markdown
 
-Markdown is 
+Markdown is a more simple version of HTML. Bascially, it is a way to use plaintext to format rich text like you might see in a Word document. 
+
+## Getting Started
+
+I'm assuming you already have `git` and `RStudio` installed on your computer and `git` is connected to your Github account. The next step is to connect to RStudio.
+
+Create a new repository on Github. This will be used for testing and you will probably delete it later. 
+
+In RStudio, click `File` -> `New Project...`
 
 ## R Markdown Stuff
 
