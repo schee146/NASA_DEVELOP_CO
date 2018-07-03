@@ -3,8 +3,8 @@ Hello World
 Mikhail Schee
 July 3, 2018
 
-R Markdown
-----------
+R Markdown Stuff
+----------------
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
