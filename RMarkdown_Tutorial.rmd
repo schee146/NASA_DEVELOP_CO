@@ -11,6 +11,22 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## So, You Want to Create an RMarkdown File
+
+Good choice. RMarkdown allows for you to make really nice looking and interactive documents, like this one you are reading. These documents can be loaded as an HTML file through a web browser, or viewed directly in a Github repository.
+
+## What is RMarkdown?
+
+RMarkdown has two main parts: R and Markdown. An RMarkdown document can have any number of blocks of R or Markdown. 
+
+### R
+
+R is a coding language mainly used for statistical analysis. It can be used to make nice charts, plots, and tables.
+
+### Markdown
+
+Markdown is 
+
 ## R Markdown Stuff
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
